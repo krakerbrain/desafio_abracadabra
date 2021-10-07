@@ -39,23 +39,25 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ##### Las siguientes imágenes representan las interacciones que debe tener el sitio web una vez terminado el desafío.
 
-<!-- ![Demostración del JSON](./readme_files/json.jpeg) -->
+# Demostración del JSON
 
-### Demostración del JSON
+(./readme_files/json.jpeg)
 
-<img src="./readme_files/json.jpeg" width="100>
-![Interfaz de la aplicación cliente](./readme_files/aplicacion.jpeg)
-![Imagen que se debe devolver en caso de escribir una ruta inexistente ](./readme_files/who.jpeg)
+# Interfaz de la aplicación cliente
 
-- Si se hace click en un sombrero cuyo número no coincide con el número generado en el
-  servidor de forma aleatoria, se debe devolver la imagen de Voldemort.
+(./readme_files/aplicacion.jpeg)
 
-![Imagen si el número no coincide con el número generado de forma aleatoria](./readme_files/voldemort.jpg)
+# Imagen que se debe devolver en caso de escribir una ruta inexistente
 
-- Si se hace click en un sombrero cuyo número sí coincide con el número generado en el
-  servidor de forma aleatoria, se debe devolver la imagen del Conejo
+(./readme_files/who.jpeg)
 
-![Imagen si el número coincide con el número generado de forma aleatoria](./readme_files/conejito.jpg)
+# Si se hace click en un sombrero cuyo número no coincide con el número generado en el servidor de forma aleatoria, se debe devolver la imagen de Voldemort.
+
+(./readme_files/voldemort.jpg)
+
+# Si se hace click en un sombrero cuyo número sí coincide con el número generado en el servidor de forma aleatoria, se debe devolver la imagen del Conejo
+
+(./readme_files/conejito.jpg)
 
 ## Construido con 🛠️
 

@@ -39,7 +39,11 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ##### Las siguientes imágenes representan las interacciones que debe tener el sitio web una vez terminado el desafío.
 
-![Demostración del JSON](./readme_files/json.jpeg) {width: 100px}
+<!-- ![Demostración del JSON](./readme_files/json.jpeg) -->
+
+### Demostración del JSON
+
+<img src="./readme_files/json.jpeg" width="100>
 ![Interfaz de la aplicación cliente](./readme_files/aplicacion.jpeg)
 ![Imagen que se debe devolver en caso de escribir una ruta inexistente ](./readme_files/who.jpeg)
 

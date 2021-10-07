@@ -37,23 +37,21 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 6. Crear una ruta genérica que devuelva un mensaje diciendo “Esta página no existe...”
    al consultar una ruta que no esté definida en el servidor.
 
-##### Las siguientes imágenes representan las interacciones que debe tener el sitio web una vez
+##### Las siguientes imágenes representan las interacciones que debe tener el sitio web una vez terminado el desafío.
 
-##### terminado el desafío.
-
-![Demostración del JSON](./readme_files/json.jpeg = 100x)
-![Interfaz de la aplicación cliente](./readme_files/aplicacion.jpeg = 100x)
-![Imagen que se debe devolver en caso de escribir una ruta inexistente ](./readme_files/who.jpeg = 100x)
+![Demostración del JSON](./readme_files/json.jpeg) {width: 100px}
+![Interfaz de la aplicación cliente](./readme_files/aplicacion.jpeg)
+![Imagen que se debe devolver en caso de escribir una ruta inexistente ](./readme_files/who.jpeg)
 
 - Si se hace click en un sombrero cuyo número no coincide con el número generado en el
   servidor de forma aleatoria, se debe devolver la imagen de Voldemort.
 
-![Imagen si el número no coincide con el número generado de forma aleatoria](./readme_files/voldemort.jpg = 100x)
+![Imagen si el número no coincide con el número generado de forma aleatoria](./readme_files/voldemort.jpg)
 
 - Si se hace click en un sombrero cuyo número sí coincide con el número generado en el
   servidor de forma aleatoria, se debe devolver la imagen del Conejo
 
-![Imagen si el número coincide con el número generado de forma aleatoria](./readme_files/conejito.jpg = 100x)
+![Imagen si el número coincide con el número generado de forma aleatoria](./readme_files/conejito.jpg)
 
 ## Construido con 🛠️
 

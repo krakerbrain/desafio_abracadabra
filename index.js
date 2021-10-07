@@ -17,7 +17,7 @@ app.get("/abracadabra/usuarios", (req, res) => {
 //se crea un middleware para validar que el usuario recibido como parámetro “usuario” existe en el arreglo de nombres creado en el servidor
 app.use("/abracadabra/juego/:usuario", (req, res, next) => {
   const nombreUsuario = req.params.usuario;
-  const isUser = usuarios.includes(nombreUsuario);
+  const isUser = usuarios.map((u) => u.toLowerCase()).includes(nombreUsuario.toLowerCase());
   isUser ? next() : res.sendFile(__dirname + "/assets/who.jpeg");
 });
 
@@ -43,7 +43,7 @@ app.get("/abracadabra/conejo/:n", (req, res) => {
 
 //se crea una ruta genérica al consultar una ruta que no esté definida en el servidor
 app.get("*", (req, res) => {
-  res.send("Esta página no existe...");
+  res.send("<center><h1>Esta página no existe...</h1> </center>");
 });
 
 app.listen(3000, () => console.log("server on"));

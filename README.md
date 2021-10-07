@@ -15,6 +15,7 @@ El servidor deberá disponibilizar las siguientes rutas:
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+- $ git clone https://github.com/krakerbrain/desafio_abracadabra
 - $ cd ../path/to/the/file
 - $ npm install
 - $ node index.js

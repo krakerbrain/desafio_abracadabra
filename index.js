@@ -43,7 +43,7 @@ app.get("/abracadabra/conejo/:n", (req, res) => {
 
 //se crea una ruta genérica al consultar una ruta que no esté definida en el servidor
 app.get("*", (req, res) => {
-  res.send("<center><h1>Esta página no existe...</h1> </center>");
+  res.send("<center><h1>Esta página no existe...</h1></center>");
 });
 
 app.listen(3000, () => console.log("server on"));

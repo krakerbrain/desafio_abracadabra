@@ -41,23 +41,23 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 # Demostración del JSON
 
-(./readme_files/json.jpeg)
+![](./readme_files/json.jpeg)
 
 # Interfaz de la aplicación cliente
 
-(./readme_files/aplicacion.jpeg)
+![](./readme_files/aplicacion.jpeg)
 
 # Imagen que se debe devolver en caso de escribir una ruta inexistente
 
-(./readme_files/who.jpeg)
+![](./readme_files/who.jpeg)
 
 # Si se hace click en un sombrero cuyo número no coincide con el número generado en el servidor de forma aleatoria, se debe devolver la imagen de Voldemort.
 
-(./readme_files/voldemort.jpg)
+![](./readme_files/voldemort.jpg)
 
 # Si se hace click en un sombrero cuyo número sí coincide con el número generado en el servidor de forma aleatoria, se debe devolver la imagen del Conejo
 
-(./readme_files/conejito.jpg)
+![](./readme_files/conejito.jpg)
 
 ## Construido con 🛠️
 
